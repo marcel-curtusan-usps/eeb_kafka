@@ -1,0 +1,12 @@
+azure-functions
+kafka-python
+confluent-kafka
+confluent-kafka[avro]>=2.0.0
+python-dotenv
+fastavro<2
+requests
+avro>=1.11.1,<2
+attrs>=21.2.0
+cachetools>=5.5.0
+httpx>=0.26
+authlib>=1.0.0
