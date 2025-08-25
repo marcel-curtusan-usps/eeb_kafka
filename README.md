@@ -1,5 +1,6 @@
-
 # eeb_kafka
+
+eeb kafka consumer and producer
 
 A Python project with basic Apache Kafka producer and consumer examples for local development and testing.
 
